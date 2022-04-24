@@ -30,3 +30,4 @@ My name is Maria and I'm a student at Boca Code studying to become a software en
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/brunomaria71"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![7C210DC2-AEA1-4F81-A861-5E280734EFCC](https://user-images.githubusercontent.com/101671611/165002005-73c41e40-22ce-48e4-8603-5e0ac7f76856.JPEG)
