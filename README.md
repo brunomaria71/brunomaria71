@@ -1,11 +1,11 @@
 Hi 👋 My name is Maria Bruno 
 ============================ 
-Software Engineering Student 
+Software Engineer
 ----------------------------  
-My name is Maria and I'm a student at Boca Code studying to become a software engineer. I really enjoy all things tech and have been learning frameworks like JavaScript and will continue to learn other languages along the way. My background includes customer service and nursing. Im hoping to add my background experiences in my code profession! 👩🏽‍⚕️👩🏽‍💻💻  
+My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue to explore, learn and conquer the layers and paths of tech. My background includes customer service and nursing. I love to assist others in their journey and share the excitement of building. 👩🏽‍⚕️👩🏽‍💻💻  
 * 🌍  I'm based in Hollywood, Florida 🌴 
 * ✉️  You can contact me at [brunomaria71@gmail.com](mailto:brunomaria71@gmail.com) 
-* 🧠  I'm currently honing in my React skills  
+* 🧠  I'm currently learning Vue   
 * ⚡  Somethings about me: I LOVE animals, anime, and family
 
 <a href="https://www.github.com/brunomaria71" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/brunomaria71?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
