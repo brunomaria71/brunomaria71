@@ -9,6 +9,8 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 * ⚡  Somethings about me: I LOVE animals, anime, and family
 
 <a href="https://www.github.com/brunomaria71" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/brunomaria71?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=brunomaria71&icon=1&color=5)](https://visitcount.itsvg.in)
 
 ### Skills
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -40,7 +42,14 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 <a href="http://www.github.com/brunomaria71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomaria71&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/brunomaria71"><img src="https://activity-graph.herokuapp.com/graph?username=brunomaria71&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/brunomaria71" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaria71&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/brunomaria71"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ![7C210DC2-AEA1-4F81-A861-5E280734EFCC](https://user-images.githubusercontent.com/101671611/165002005-73c41e40-22ce-48e4-8603-5e0ac7f76856.JPEG)
