@@ -51,5 +51,9 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Spotify Playing 🎧
+
+[<img src="https://<spotify-extension.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<1218818881>)
+
 
 ![7C210DC2-AEA1-4F81-A861-5E280734EFCC](https://user-images.githubusercontent.com/101671611/165002005-73c41e40-22ce-48e4-8603-5e0ac7f76856.JPEG)
