@@ -8,6 +8,9 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 * 🧠  I'm currently learning Vue   
 * ⚡  Somethings about me: I LOVE animals, anime, and family
 
+### Spotify Playing 🎧
+[<img src="https://spotify-extension-he2pgx835-brunomaria71.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1218818881)
+
 <a href="https://www.github.com/brunomaria71" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/brunomaria71?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=brunomaria71&icon=1&color=5)](https://visitcount.itsvg.in)
@@ -50,10 +53,6 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Spotify Playing 🎧
-
-[<img src="spotify-extension-he2pgx835-brunomaria71.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/1218818881)
 
 
 ![7C210DC2-AEA1-4F81-A861-5E280734EFCC](https://user-images.githubusercontent.com/101671611/165002005-73c41e40-22ce-48e4-8603-5e0ac7f76856.JPEG)
