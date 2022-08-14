@@ -34,7 +34,8 @@ My name is Maria and I'm a Software Engineer graduate from Boca Code. I continue
 
  ### Socials  
  
-<p align="left"> <a href="https://www.linkedin.com/in//MariaBruno71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/18924282/maria-bruno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="http://www.medium.com/@brunomaria71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in//MariaBruno71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/18924282/maria-bruno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="http://www.medium.com/@brunomaria71" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a><a href="https://discord.com/users/mariadev#3562" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+ 
 
 
 ### Badges
