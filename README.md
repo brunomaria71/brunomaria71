@@ -2,7 +2,7 @@ Hi 👋 My name is Maria Bruno
 ============================ 
 Software Engineer
 ----------------------------  
-My name is Maria and I'm a Software Engineer with a background in nursing. I'm currently working at a company doing frontend development & growth engineering. I continue to explore, learn and conquer the layers and paths of tech. I love to assist others in their journey and share the excitement of building. 👩🏽‍⚕️👩🏽‍💻💻  
+My name is Maria and I'm a Software Engineer with a background in nursing. I'm currently working at a company doing full stack development. I continue to explore, learn and conquer the layers and paths of tech. I love to assist others in their journey and share the excitement of building. 👩🏽‍⚕️👩🏽‍💻💻  
 * 🌍  I'm based in Hollywood, Florida 🌴 
 * ✉️  You can contact me at [brunomaria71@gmail.com](mailto:brunomaria71@gmail.com) 
 * 🧠  I'm currently learning PHP    
