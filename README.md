@@ -44,7 +44,6 @@ My name is Maria and I'm a Software Engineer with a background in nursing. I'm c
 
 <a href="http://www.github.com/brunomaria71"><img src="https://github-readme-stats.vercel.app/api?username=brunomaria71&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="brunomaria71's GitHub stats" /></a>
 <a href="http://www.github.com/brunomaria71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomaria71&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/brunomaria71"><img src="https://activity-graph.herokuapp.com/graph?username=brunomaria71&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/brunomaria71" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaria71&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
