@@ -6,7 +6,7 @@ My name is Maria and I'm a Software Engineer with a background in nursing. I'm c
 * 🌍  I'm based in Hollywood, Florida 🌴 
 * ✉️  You can contact me at [brunomaria71@gmail.com](mailto:brunomaria71@gmail.com) 
 * 🧠  I'm currently learning PHP    
-* ⚡  Somethings about me: I LOVE animals <a href=https://yoursmiles.org/h-naruto.php><img src=https://yoursmiles.org/hsmile/naruto/h19021.gif height="20px"></a>, anime <a href=https://yoursmiles.org/h-naruto.php><img src=https://yoursmiles.org/hsmile/naruto/h19017.gif height="25px"></a>, and family
+* ⚡  Somethings about me: I LOVE animals, family, and anime <a href=https://yoursmiles.org/h-naruto.php><img src=https://yoursmiles.org/hsmile/naruto/h19017.gif height="25px"></a> 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-extension-he2pgx835-brunomaria71.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1218818881)
