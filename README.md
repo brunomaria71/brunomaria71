@@ -5,7 +5,7 @@ Software Engineer
 My name is Maria and I'm a Software Engineer with a background in nursing. I'm currently working at a company doing full stack development. I continue to explore, learn and conquer the layers and paths of tech. I love to assist others in their journey and share the excitement of building. 👩🏽‍⚕️👩🏽‍💻💻  
 * 🌍  I'm based in Hollywood, Florida 🌴 
 * ✉️  You can contact me at [brunomaria71@gmail.com](mailto:brunomaria71@gmail.com) 
-* 🧠  I'm currently learning PHP    
+* 🧠  I'm currently learning C#   
 * ⚡  Somethings about me: I LOVE animals, family, and anime <a href=https://yoursmiles.org/h-naruto.php><img src=https://yoursmiles.org/hsmile/naruto/h19017.gif height="25px"></a> 
 
 ### Spotify Playing 🎧
